@@ -1,4 +1,8 @@
 body {
   background-color: black;
-  //color: white;
+  color: #979797;
+}
+
+a:hover {
+  color: $highlight!important;
 }
